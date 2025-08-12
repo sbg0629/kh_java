@@ -24,7 +24,7 @@
 
 ##  참고
 - 학습 기록과 복습 목적으로 작성
-- 웹 프론트엔드 & 파이썬 관련 내용 → [별도 저장소](https://github.com/sbg0629/kh_web_python) 관리
+- 웹 프론트엔드 & 파이썬 관련 내용 → [별도 저장소](https://github.com/sbg0629/kh-daily) 관리
 
 ---
 
